@@ -4,6 +4,7 @@
 
 ## users table
 |column|type||options|
+|:--|--:|:--:|
 |name|string|index: true, null: false, unique: true|
 |email|string|null: false|
 
