@@ -1,3 +1,3 @@
-# README
-  ##DB設計##
-  
+#Database Design Sample #
+
+##　DB設計　##
