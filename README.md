@@ -5,6 +5,7 @@
 ## users table
 
 |rrr|rrr|ttt|
+|:-:|:-:|:-:|
 |ggg|ggg|ggg|
 |bbbb|vvvv|cccccccc|
 
