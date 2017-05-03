@@ -1,3 +1,3 @@
-#Database Design Sample 
+# Database Design Sample
 
-##　DB設計　
+## DB設計　
