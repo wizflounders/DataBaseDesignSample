@@ -3,10 +3,13 @@
 ## DB設計　
 
 ## users table
-|column|type||options|
-|:-:|:-:|:--:|
-|name|string|index: true, null: false, unique: true|
-|email|string|null: false|
+|ここに|項目を|入れます|
+|:-|-:|:-:|
+|ここから|テキストを|入れていきます|
+|昨日|今日|明日|
+|ボールペン|シャープペン|万年筆|
+|iPhone|iPad|MacBook|
+|テキストがながーくなっても|大丈夫なように出来ているので|レスポンシブでも安心|
 
 • has_many :tweets
 • has_many :comments
